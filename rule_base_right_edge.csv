@@ -1,0 +1,10 @@
+FRS,BRS,x,z
+close,close,slow,left
+close,medium,slow,left
+close,far,medium,left
+medium,close,slow,right
+medium,medium,medium,forward
+medium,far,slow,left
+far,close,medium,right
+far,medium,slow,right
+far,far,fast,right

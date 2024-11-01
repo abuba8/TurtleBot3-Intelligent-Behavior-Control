@@ -1,0 +1,10 @@
+LFS,RFS,x,z
+close,close,slow,left
+close,medium,slow,left
+close,far,slow,left
+medium,close,slow,left
+medium,medium,medium,left
+medium,far,medium,left
+far,close,slow,left
+far,medium,medium,left
+far,far,fast,forward
